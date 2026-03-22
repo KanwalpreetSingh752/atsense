@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="neondb@ep-cold-hill-a1myp0hy.ap-southeast-1.aws.neon.tech" uuid="8c6c5db3-1ad5-41f4-ad5e-d31d8ea7152b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ep-cold-hill-a1myp0hy.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&amp;channelBinding=require</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <driver-properties>
+        <property name="sslmode" value="require" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
